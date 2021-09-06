@@ -1,0 +1,62 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Sep 2021 21:48:05 at https://zenon.network/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://zenon.network/ -O1 "C:\Users\Maykol Vega\Desktop\pruebotas\cere" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:49:21	Warning: 	Moved Permanently for zenon.network/robots.txt
+21:49:21	Warning: 	Redirected link is identical because of 'URL Hack' option: zenon.network/robots.txt and https://zenon.network/robots.txt
+21:49:21	Warning: 	Warning moved treated for zenon.network/robots.txt (real one is https://zenon.network/robots.txt)
+21:49:21	Warning: 	Moved Permanently for zenon.network/legacy/
+21:49:21	Warning: 	Redirected link is identical because of 'URL Hack' option: zenon.network/legacy/ and https://zenon.network/legacy/
+21:49:21	Warning: 	File has moved from zenon.network/legacy/ to https://zenon.network/legacy/
+21:49:21	Warning: 	File not parsed, looks like binary: https://zenon.network/fonts/CircularStd-Book.woff2
+21:49:21	Warning: 	File not parsed, looks like binary: https://zenon.network/fonts/CircularStd-MediumItalic.woff2
+21:49:21	Warning: 	File not parsed, looks like binary: https://zenon.network/fonts/CircularStd-Black.woff2
+21:49:21	Warning: 	File not parsed, looks like binary: https://zenon.network/fonts/CircularStd-Medium.woff2
+21:49:21	Warning: 	File not parsed, looks like binary: https://zenon.network/fonts/CircularStd-Bold.woff2
+21:49:21	Warning: 	File not parsed, looks like binary: https://zenon.network/fonts/CircularStd-BlackItalic.woff2
+21:49:21	Warning: 	File not parsed, looks like binary: https://zenon.network/fonts/CircularStd-BoldItalic.woff2
+21:49:21	Warning: 	File not parsed, looks like binary: https://zenon.network/fonts/Presicav-W00-Regular.woff2
+21:49:21	Warning: 	File not parsed, looks like binary: https://zenon.network/webfonts/fa-brands-400.woff2
+21:49:22	Warning: 	File not parsed, looks like binary: https://zenon.network/webfonts/fa-regular-400.woff2
+21:49:22	Warning: 	File not parsed, looks like binary: https://zenon.network/webfonts/fa-solid-900.woff2
+21:49:31	Error: 	"Not Found" (404) at link https://zenon.network/legacy/download/whitepaper.pdf (from https://zenon.network/legacy/wallet)
+21:49:58	Error: 	"Not Found" (404) at link https://zenon.network/legacy/content/site/content/base/zenon/css-clean/fonts/iconsmind.eot?qnd6ae (from https://zenon.network/legacy/content/site/content/base/zenon/css-clean/extra.css)
+21:49:58	Error: 	"Not Found" (404) at link https://zenon.network/legacy/content/site/content/base/zenon/css-clean/fonts/iconsmind.ttf?qnd6ae (from https://zenon.network/legacy/content/site/content/base/zenon/css-clean/extra.css)
+21:49:58	Error: 	"Not Found" (404) at link https://zenon.network/legacy/content/site/content/base/zenon/css-clean/fonts/iconsmind.woff?qnd6ae (from https://zenon.network/legacy/content/site/content/base/zenon/css-clean/extra.css)
+21:49:58	Error: 	"Not Found" (404) at link https://zenon.network/legacy/content/site/content/base/zenon/css-clean/fonts/iconsmind.svg?qnd6ae (from https://zenon.network/legacy/content/site/content/base/zenon/css-clean/extra.css)
+21:49:58	Error: 	"Not Found" (404) at link https://zenon.network/legacy/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_icons/fonts/VC-Icons.ttf (from https://zenon.network/legacy/content/site/content/base/zenon/css-clean/extra.css)
+21:49:58	Error: 	"Not Found" (404) at link https://zenon.network/legacy/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_icons/fonts/VC-Icons.woff (from https://zenon.network/legacy/content/site/content/base/zenon/css-clean/extra.css)
+21:49:58	Error: 	"Not Found" (404) at link https://zenon.network/legacy/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_icons/fonts/VC-Icons.svg (from https://zenon.network/legacy/content/site/content/base/zenon/css-clean/extra.css)
+21:49:58	Error: 	"Not Found" (404) at link https://zenon.network/legacy/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_grid/vc_grid_v1.eot (from https://zenon.network/legacy/content/site/content/base/zenon/css-clean/extra.css)
+21:49:58	Error: 	"Not Found" (404) at link https://zenon.network/legacy/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_grid/vc_grid_v1.woff (from https://zenon.network/legacy/content/site/content/base/zenon/css-clean/extra.css)
+21:49:58	Error: 	"Not Found" (404) at link https://zenon.network/legacy/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_grid/vc_grid_v1.ttf (from https://zenon.network/legacy/content/site/content/base/zenon/css-clean/extra.css)
+21:49:58	Error: 	"Not Found" (404) at link https://zenon.network/legacy/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_grid/vc_grid_v1.svg (from https://zenon.network/legacy/content/site/content/base/zenon/css-clean/extra.css)
+21:50:16	Error: 	"Not Found" (404) at link https://zenon.network/content/site/content/base/zenon/css-clean/fonts/iconsmind.eot?qnd6ae (from https://zenon.network/content/site/content/base/zenon/css-clean/extra.css)
+21:50:16	Error: 	"Not Found" (404) at link https://zenon.network/content/site/content/base/zenon/css-clean/fonts/iconsmind.ttf?qnd6ae (from https://zenon.network/content/site/content/base/zenon/css-clean/extra.css)
+21:50:16	Error: 	"Not Found" (404) at link https://zenon.network/content/site/content/base/zenon/css-clean/fonts/iconsmind.woff?qnd6ae (from https://zenon.network/content/site/content/base/zenon/css-clean/extra.css)
+21:50:16	Error: 	"Not Found" (404) at link https://zenon.network/content/site/content/base/zenon/css-clean/fonts/iconsmind.svg?qnd6ae (from https://zenon.network/content/site/content/base/zenon/css-clean/extra.css)
+21:50:16	Error: 	"Not Found" (404) at link https://zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_icons/fonts/VC-Icons.ttf (from https://zenon.network/content/site/content/base/zenon/css-clean/extra.css)
+21:50:16	Error: 	"Not Found" (404) at link https://zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_icons/fonts/VC-Icons.woff (from https://zenon.network/content/site/content/base/zenon/css-clean/extra.css)
+21:50:16	Error: 	"Not Found" (404) at link https://zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_icons/fonts/VC-Icons.svg (from https://zenon.network/content/site/content/base/zenon/css-clean/extra.css)
+21:50:16	Error: 	"Not Found" (404) at link https://zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_grid/vc_grid_v1.eot (from https://zenon.network/content/site/content/base/zenon/css-clean/extra.css)
+21:50:16	Error: 	"Not Found" (404) at link https://zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_grid/vc_grid_v1.woff (from https://zenon.network/content/site/content/base/zenon/css-clean/extra.css)
+21:50:16	Error: 	"Not Found" (404) at link https://zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_grid/vc_grid_v1.ttf (from https://zenon.network/content/site/content/base/zenon/css-clean/extra.css)
+21:50:16	Error: 	"Not Found" (404) at link https://zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_grid/vc_grid_v1.svg (from https://zenon.network/content/site/content/base/zenon/css-clean/extra.css)
+21:50:16	Error: 	"Not Found" (404) at link https://cdn.zenon.network/content/site/content/base/zenon/css-clean/fonts/iconsmind.eot?qnd6ae (from https://cdn.zenon.network/content/site/content/base/zenon/css-clean/extra.css?v=2.6)
+21:50:16	Error: 	"Not Found" (404) at link https://cdn.zenon.network/content/site/content/base/zenon/css-clean/fonts/iconsmind.ttf?qnd6ae (from https://cdn.zenon.network/content/site/content/base/zenon/css-clean/extra.css?v=2.6)
+21:50:16	Error: 	"Not Found" (404) at link https://cdn.zenon.network/content/site/content/base/zenon/css-clean/fonts/iconsmind.woff?qnd6ae (from https://cdn.zenon.network/content/site/content/base/zenon/css-clean/extra.css?v=2.6)
+21:50:16	Error: 	"Not Found" (404) at link https://cdn.zenon.network/content/site/content/base/zenon/css-clean/fonts/iconsmind.svg?qnd6ae (from https://cdn.zenon.network/content/site/content/base/zenon/css-clean/extra.css?v=2.6)
+21:50:16	Error: 	"Not Found" (404) at link https://cdn.zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_icons/fonts/VC-Icons.ttf (from https://cdn.zenon.network/content/site/content/base/zenon/css-clean/extra.css?v=2.6)
+21:50:16	Error: 	"Not Found" (404) at link https://cdn.zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_icons/fonts/VC-Icons.woff (from https://cdn.zenon.network/content/site/content/base/zenon/css-clean/extra.css?v=2.6)
+21:50:16	Error: 	"Not Found" (404) at link https://cdn.zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_icons/fonts/VC-Icons.svg (from https://cdn.zenon.network/content/site/content/base/zenon/css-clean/extra.css?v=2.6)
+21:50:16	Error: 	"Not Found" (404) at link https://cdn.zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_grid/vc_grid_v1.eot (from https://cdn.zenon.network/content/site/content/base/zenon/css-clean/extra.css?v=2.6)
+21:50:16	Error: 	"Not Found" (404) at link https://cdn.zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_grid/vc_grid_v1.woff (from https://cdn.zenon.network/content/site/content/base/zenon/css-clean/extra.css?v=2.6)
+21:50:16	Error: 	"Not Found" (404) at link https://cdn.zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_grid/vc_grid_v1.ttf (from https://cdn.zenon.network/content/site/content/base/zenon/css-clean/extra.css?v=2.6)
+21:50:16	Error: 	"Not Found" (404) at link https://cdn.zenon.network/content/site/content/base/zenon/css-clean/demo/zenon-product/wp-content/plugins/js_composer_zenon/assets/fonts/vc_grid/vc_grid_v1.svg (from https://cdn.zenon.network/content/site/content/base/zenon/css-clean/extra.css?v=2.6)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 11 seconds : 252 links scanned, 214 files written (21968556 bytes overall) [11679996 bytes received at 89160 bytes/sec], 15638267 bytes transferred using HTTP compression in 210 files, ratio 32%, 23.0 requests per connection
+(34 errors, 17 warnings, 0 messages)
